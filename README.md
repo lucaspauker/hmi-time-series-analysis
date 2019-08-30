@@ -12,4 +12,8 @@ Second, understanding the factors behind solar flares and how the magnetically a
 
 ---
 
-The code for this project is included in this repo as an Jupyter notebook. It is also hosted here:
+The code for this project is included in this repo as an Jupyter notebook.
+
+---
+
+Contributors: [Lucas Pauker](https://github.com/lucaspauker) (Stanford University), [Monica Bobra](https://github.com/mbobra) (Stanford University), [Eric Jonas](https://github.com/ericmjonas) (University of Chicago)
