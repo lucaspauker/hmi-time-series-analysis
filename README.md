@@ -1,4 +1,4 @@
-# flux-emergence-flare-classification
+# hmi-time-series-analysis
 
 ## Introduction
 The rapid emergence of magnetic flux and free magnetic energy on the solar photosphere often indicates an increased probability of future flaring activity. For example, two active regions with the same total unsigned flux but different flux emergence rates may have different flaring activity. However, the nature of this change remains poorly understood. What patterns surround flux emergence and the **temporal evolution of other magnetic variables** governing eruptive activity? And how can we use these patterns to improve our predictions of solar flares?
