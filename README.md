@@ -10,6 +10,14 @@ First, solar flares have a direct effect on space and earth; they can produce pa
 
 Second, understanding the factors behind solar flares and how the magnetically active regions of the sun change would increase our knowledge of other stars. Many stars have starspots (and therefore magnetic field patterns) similar to the sun and understanding how the active region of the sun changes would provide insight into how these other stars behave.
 
+## Results
+We found that over time, the testing accuracies for the single-variable models increase over time.
+This shows that there is signal encoded in the time series element of these variables.
+Training on a model with all the HMI features aggregated consistently performs better than any single feature.
+The highest-performing variables are total magnetic flux, total electric current, and free energy.
+The lowest-performing variables are mean electric current and polarity inversion line flux.
+
+
 ---
 
 The code for this project is included in this repo as an Jupyter notebook.
