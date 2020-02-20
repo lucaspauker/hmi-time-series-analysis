@@ -20,7 +20,7 @@ The lowest-performing variables are mean electric current and polarity inversion
 
 ---
 
-The code for this project is included in this repo as an Jupyter notebook.
+The code for this project is included in this repo as an Jupyter notebook. Also check out my [blog post](https://www.lucaspauker.ml/projects/14) on this project!
 
 ---
 
